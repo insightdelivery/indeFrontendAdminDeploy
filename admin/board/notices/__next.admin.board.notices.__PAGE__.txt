@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[47257,["/_next/static/chunks/0uvjepuwwgnzp.js","/_next/static/chunks/06272k69k3mfb.js","/_next/static/chunks/00kcj86~ri4bd.js"],"ClientPageRoot"]
-3:I[50146,["/_next/static/chunks/0uvjepuwwgnzp.js","/_next/static/chunks/06272k69k3mfb.js","/_next/static/chunks/00kcj86~ri4bd.js","/_next/static/chunks/0bqux~_6k53jj.js","/_next/static/chunks/09a3~f3q0we7c.js","/_next/static/chunks/17iok_kbywx55.js","/_next/static/chunks/0sw0xrrk~ouha.js"],"default"]
+3:I[50146,["/_next/static/chunks/0uvjepuwwgnzp.js","/_next/static/chunks/06272k69k3mfb.js","/_next/static/chunks/00kcj86~ri4bd.js","/_next/static/chunks/0rhu4oa~pqecz.js","/_next/static/chunks/0.2-1l_qpff4~.js","/_next/static/chunks/0i~r_2xwz7_y..js","/_next/static/chunks/0sw0xrrk~ouha.js"],"default"]
 6:I[97367,["/_next/static/chunks/0uvjepuwwgnzp.js","/_next/static/chunks/06272k69k3mfb.js","/_next/static/chunks/00kcj86~ri4bd.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/17iok_kbywx55.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0sw0xrrk~ouha.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ghI_um-Qfb67G9KEPtJtv"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/0i~r_2xwz7_y..js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0sw0xrrk~ouha.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-r91DzGslktVniXQa_izE"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
